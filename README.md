@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @captl1nk
+- 👀 I’m interested in golang and vue
+- 🌱 I’m currently learning blockchain(smartcontract)
+- 📫 How to reach me ...
